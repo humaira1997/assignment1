@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* div styles */
+.div-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+
+}
+
+.div-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.btn-1 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    padding: 21px 20px 25px 26px;
+    width: 160px;
+    height: 64px;
+}
+
+.banner {
+ 
+    width: 120%;
+    height: 100%;
+    top: 0px;
+    position: relative;
+    padding: 0px 0px 0px 20px;
+}
+
+.banner-area {
+    padding: 250px 364px 230px 800px;
+    text-align: right;
+    position: absolute;
+}
+
+/* middle part styles */
+
+section.prev-year-fails {
+
+    padding: 100px 100px 200px 280px;
+    display: flex;
+}
+
+.img {
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.description {
+    width: 416px;
+    height: 400px;
+    padding: 200px 220px;
+}
+
+.div-title2 {
+
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    /* line-height: 1.2; */
+}
+
+.div-description2 {
+    font-weight: 400;
+    font-size: 25px;
+    /* line-height: 1.4; */
+}
+.list {
+    width: 240px;
+    height: 26px;
+    line-height: 1.8;
+font-size: 15px;
+}
+
+/* my plans styles */
+section.my-plans {
+    align-items: center;
+    padding: 20px 20px 225px 250px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.plan-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 15px;
+    color: #737272;
+}
+
+.plan-box {
+    align-items: center;
+    display: flex;
+    gap: 80px;
+}
+
+.plan {
+    text-align: center;
+}
+
+/* positive mindset section */
+
+.g-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.btn-grad {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #F15B22;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    border: 0;
+
+}
+
+.grad-text {
+
+    text-align: left;
+    padding: 50px 50px 50px;
+
+}
+
+.grad-banner {
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    width: 1140px;
+    height: 300px;
+}
+
+section.positive-mind {
+    padding: 20px 200px 200px;
+}
+
+/* footer styles */
+
+section.future {
+    background: #151414;
+    width: 95%;
+    height: 80%;
+    display: flex;
+    gap: 400px;
+    padding: 130px 130px 230px 230px;
+
+}
+
+.f-txt {
+    width: 485px;
+    height: 317px;
+}
+
+.subs {
+    width: 325px;
+    height: 204px;
+}
+
+.f-t {
+    color: #FFFFFF;
+
+}
+
+.email {
+    margin-bottom: 20px;
+    border: 5px;
+    border-color: #F3F3F3;
+    border-radius: 3px;
+    background-color: #151414;
+    width: 100%;
+    padding: 18px 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+}
+
+.anchor {
+    margin-right: 15px;
+}
